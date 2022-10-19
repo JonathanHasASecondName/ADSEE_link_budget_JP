@@ -30,8 +30,8 @@ radii_dict = {'Mercury': 2439.7e3, 'Venus': 6051.8e3, 'Earth': 6371e3, 'Moon': 1
            'Jupiter': 69911e3, 'Saturn': 58232e3, 'Uranus': 25362e3, 'Neptune': 24622e3, 'Pluto': 1188.3e3}
 mu_dict = {'Mercury': 22032.09e9, 'Venus': 324859e9, 'Earth': 398600.436e9, 'Moon': 4902.8e9, 'Mars': 42828e9,
            'Jupiter': 126686531e9, 'Saturn': 37931206e9, 'Uranus': 5793951e9, 'Neptune': 6835099e9, 'Pluto': 869.6e9}
-r_orbit_dict = {'Mercury': 4.6e10, 'Venus': 1.07477e11, 'Earth': 1.496e11, 'Mars': 2.49261e11,
-                'Jupiter': 8.16363e11, 'Saturn': 1.5145e12, 'Uranus': 3.00639e12, 'Neptune': 4.54e12, 'Pluto': 7.37e12}
+r_orbit_dict = {'Mercury': 4.6e10, 'Venus': 1.07477e11, 'Earth': 1.496e11, 'Mars': 2.279e11,
+                'Jupiter': 8.16363e11, 'Saturn': 1.43353e12, 'Uranus': 3.00639e12, 'Neptune': 4.54e12, 'Pluto': 7.37e12}
 c = 2.998e8
 
 
